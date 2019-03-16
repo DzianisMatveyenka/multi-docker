@@ -12,9 +12,7 @@ class App extends Component {
                 <div className="App">
                     <header className="App-header">
                         <img src={logo} className="App-logo" alt="logo"/>
-                        <p>
-                            Edit <code>src/App.js</code> and save to reload.
-                        </p>
+                        <h1>Fib calculator</h1>
                         <Link to="/">Home</Link>
                         <Link to="/otherpage">Other Page</Link>
                     </header>
